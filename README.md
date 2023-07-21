@@ -1,10 +1,10 @@
 # python_challenge
-Python Scripting Challenge
+**Python Scripting Challenge**
 
 Welcome to the second challenge in my collection of reposiroties!
-Part of this challenge we will analyse two datasets and create scripts that analyzes the records to calculate respective values listed below 
+Part of this challenge we will analyse two datasets and create scripts that analyzes the data to calculate respective values listed below
 
-#PyBank
+**#PyBank** Analysis
 
 1.The total number of months included in the dataset
 
@@ -16,7 +16,7 @@ Part of this challenge we will analyse two datasets and create scripts that anal
 
 5.The greatest decrease in profits (date and amount) over the entire period
 
-#PyPoll
+**#PyPoll** Analysis
 
 1.The total number of votes cast
 
@@ -27,3 +27,20 @@ Part of this challenge we will analyse two datasets and create scripts that anal
 4.The total number of votes each candidate won
 
 5.The winner of the election based on popular vote
+
+**Prerequisites and Installations**
+
+1.Python installed in your Local Machine
+
+2.Download datasets uploaded in the Resources of each sub challenge. Set up folder structure for generating outputs.
+
+How to execute?
+
+Option 1: Visual Basic Studio Code -->Run(Play Button) --> Run Python File 
+
+Option 2 Gitbash where you have Python installed and simply use command "python main.py"
+
+*Note: Folder where the files are placed and installations of software play a key role to be able to execute them successfully. 
+
+Acknowledgements
+1.Syntax and Debugging of errors from StackOverflow
